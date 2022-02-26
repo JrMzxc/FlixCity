@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    background-image: url(./images/pexels-photo-3709370.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.header .vid{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 15%;
+}
